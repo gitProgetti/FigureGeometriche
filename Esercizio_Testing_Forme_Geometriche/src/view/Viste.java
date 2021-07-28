@@ -27,6 +27,9 @@ public class Viste implements IViste{
 		return valore;
 	}
 
+	/*
+	 * metodo che legge un double
+	 */
 	public double leggiDouble(String messaggio) {
 		Scanner input = new Scanner(System.in);
 		double valore = 0;
