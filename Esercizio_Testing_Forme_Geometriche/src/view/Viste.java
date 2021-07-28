@@ -29,7 +29,7 @@ public class Viste implements IViste{
 	}
 
 	/*
-	 * metodo che legge un double modifica effettuata su master
+	 * metodo che legge un double modifica effettuata su master per creare un conflitto
 	 */
 	public double leggiDouble(String messaggio) {
 		Scanner input = new Scanner(System.in);
