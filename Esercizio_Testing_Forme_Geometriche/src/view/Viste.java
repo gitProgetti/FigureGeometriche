@@ -8,6 +8,7 @@ import model.Quadrato;
 import model.Rettangolo;
 import model.Triangolo;
 
+//modifica fatta nel branch evolutiva_view_View
 public class Viste implements IViste{
 
 	public int leggiIntero(String messaggio) {
