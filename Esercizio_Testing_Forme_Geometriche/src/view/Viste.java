@@ -28,7 +28,7 @@ public class Viste implements IViste{
 	}
 
 	/*
-	 * metodo che legge un double
+	 * metodo che legge un double modifica effettuata su master
 	 */
 	public double leggiDouble(String messaggio) {
 		Scanner input = new Scanner(System.in);
